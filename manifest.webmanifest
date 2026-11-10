@@ -1,16 +1,27 @@
 {
- "name":"數感小島－0～100 離線數感探險",
- "short_name":"數感小島",
- "id":"./",
- "start_url":"./",
- "scope":"./",
- "display":"standalone",
- "orientation":"landscape",
- "background_color":"#fff9ed",
- "theme_color":"#fff9ed",
- "lang":"zh-Hant",
- "icons":[
-  {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-  {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
- ]
+  "name": "數感小島 2.4",
+  "short_name": "數感小島",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fff9ed",
+  "theme_color": "#fff9ed",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "幼兒數感探險，六種卡通圖案、十格盒、金幣獎勵、中文語音"
 }
